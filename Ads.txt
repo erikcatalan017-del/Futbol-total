@@ -1,0 +1,3 @@
+# Google AdSense
+# Añade aquí exactamente la línea ads.txt
+# que Google te proporcione cuando corresponda.
